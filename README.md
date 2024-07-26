@@ -2,6 +2,8 @@
 
 This is a static landing page for `Plate & Palette`, a fictional restaurant. The page is designed for viewing on laptop and PC screens, showcasing a concept for a restaurant website. All data, including the restaurant name, location, contact details, and menu items, are imaginary and created for demonstration purposes only.
 
+ **[View Live](https://manish-singh-ranawat.github.io/Restaurant-Landing-Page/)**
+
 ## Overview
 
 This project is a static website designed to demonstrate HTML structure, CSS styling, and basic JavaScript interactivity. It does not include any backend functionality or real interactivity beyond menu tab switching.
